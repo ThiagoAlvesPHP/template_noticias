@@ -1,0 +1,26 @@
+.logo{
+	background-color: #c4170c;
+	width: 100%;
+	height: 100px;
+	margin-top: -20px;
+	margin-bottom: 20px;
+}
+.text-topo{
+	width: 200px;
+	text-align: center;
+	color: #fff;
+	font-size: 50px;
+	text-shadow: 1px 1px black, -1px -1px #444;
+	line-height:100px;
+}
+.fab{
+	padding-right: 5px;
+}
+.sport{
+	color: green;
+	margin-top: 5px;
+}
+.entretenimento{
+	color: orange;
+	margin-top: 5px;
+}
