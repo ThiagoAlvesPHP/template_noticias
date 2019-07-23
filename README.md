@@ -1,4 +1,4 @@
-<h1>Padrão MVC</h1>
+<h1>Template Site de Noticias - Padrão MVC</h1>
 <hr>
 Configurações Gerais: "config.php"<br>
 define("BASE", "www.meusite.com");<br>
